@@ -1,10 +1,15 @@
 # Minesweeper
 
-Simple game on terminal
+Classic minesweeper game on terminal
 
 ### How to run
 
+- Install CLion IDE (https://www.jetbrains.com/clion/)
+- Open project in CLion and run/debug it
+
 ### How to play
+
+https://gist.github.com/davidsvson/2977e7f2583ce489a1f68ee728060811#exempel
 
 ### Playable game boards
 
